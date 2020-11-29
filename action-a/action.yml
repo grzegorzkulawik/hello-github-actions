@@ -1,4 +1,4 @@
-name "Hello Actions"
+name: "Hello Actions"
 description: "Geet someone"
 author: "grzegorzkulawik@github.com"
 
